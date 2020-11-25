@@ -1,3 +1,6 @@
+# Data-driven Congressional subgroups
+* A pipeline for extracting Congressional voting records from any year + PCA + clustering
+
 ## Contents
 * [Data source](https://www.govtrack.us/congress/votes)
 * [Data files for House](data_house)
