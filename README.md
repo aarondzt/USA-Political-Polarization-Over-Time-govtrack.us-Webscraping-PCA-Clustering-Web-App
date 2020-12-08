@@ -21,7 +21,6 @@ In this project, I focus on the current year 2020, but in the future, it would b
 ### Conclusion
 I saw [this Tweet](https://twitter.com/seanjtaylor/status/1331426161356808192) today, and found it to encapsulate my motivation for pursuing this project: "Perhaps my most controversial opinion: In machine learning education, the focus on supervised learning and particularly on classification problems gives people a totally misguided idea about how to use data to solve real problems." I wanted to avoid the mostly banal Kaggle/UCI datasets and build a pipeline to gather my own data. Congressional data does not lend itself to sophisticated machine learning classification/regression models, but I believe that by applying PCA + clustering to it, I learned a lot about the structure of our political system - data-driven knowledge that could not be attained just by reading the news. This pipeline could be used to gather data on any Congress, all the way back to the first Congress of 1789, and could provide the basis for very interesting quantitative comparisons of how American politics has evolved over time.
 
-
 ## Project Info
 <pre>
 Contributors : <a href=https://github.com/aarondzt>Aaron Tan</a>
