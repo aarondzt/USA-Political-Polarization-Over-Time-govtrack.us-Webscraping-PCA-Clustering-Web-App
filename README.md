@@ -1,9 +1,9 @@
-**********
+%%%%%%%%%%%%%%%%%%%%
 
 # DATA-690 WEB APPS INSTRUCTIONS
 Run voila on Senate Data Analysis.ipynb
 
-**********
+%%%%%%%%%%%%%%%%%%%%
 
 # Data-driven Congressional subgroups
 A pipeline for extracting Congressional voting records from any year + PCA + clustering
